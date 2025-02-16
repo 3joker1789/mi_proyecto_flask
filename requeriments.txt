@@ -1,0 +1,4 @@
+Flask==3.0.2
+Werkzeug==3.0.1
+click==8.1.7
+pip freeze > requirements.txt
